@@ -1,0 +1,7 @@
+"nb_bases_loaded_changedport THUMB Debug/main.o"
+"nb_bases_loaded_changedport THUMB Debug/thumb_crt0.o"
+"nb_bases_loaded_changedport THUMB Debug/STM32_Startup.o"
+"C:/Program Files/Rowley Associates Limited/CrossWorks for ARM 4.7/lib/libm_v7em_t_le_eabi.a"
+"C:/Program Files/Rowley Associates Limited/CrossWorks for ARM 4.7/lib/libc_v7em_t_le_eabi.a"
+"C:/Program Files/Rowley Associates Limited/CrossWorks for ARM 4.7/lib/libdebugio_v7em_t_le_eabi.a"
+"C:/Program Files/Rowley Associates Limited/CrossWorks for ARM 4.7/lib/libcm_v7em_t_le_eabi.a"
